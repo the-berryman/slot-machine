@@ -1,0 +1,10 @@
+C:\Users\LawAdmin\source\repos\Project7\Project7\bin\Debug\Project7.exe.config
+C:\Users\LawAdmin\source\repos\Project7\Project7\bin\Debug\Project7.exe
+C:\Users\LawAdmin\source\repos\Project7\Project7\bin\Debug\Project7.pdb
+C:\Users\LawAdmin\source\repos\Project7\Project7\obj\Debug\Project7.csprojAssemblyReference.cache
+C:\Users\LawAdmin\source\repos\Project7\Project7\obj\Debug\Project7.slotMachineform.resources
+C:\Users\LawAdmin\source\repos\Project7\Project7\obj\Debug\Project7.Properties.Resources.resources
+C:\Users\LawAdmin\source\repos\Project7\Project7\obj\Debug\Project7.csproj.GenerateResource.cache
+C:\Users\LawAdmin\source\repos\Project7\Project7\obj\Debug\Project7.csproj.CoreCompileInputs.cache
+C:\Users\LawAdmin\source\repos\Project7\Project7\obj\Debug\Project7.exe
+C:\Users\LawAdmin\source\repos\Project7\Project7\obj\Debug\Project7.pdb
